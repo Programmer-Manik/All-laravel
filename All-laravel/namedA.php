@@ -7,3 +7,6 @@ function exampleFunction($param1, $param2, $param3) {
     exampleFunction(param1: 'value1', param2: 'value2', param3: 'value3');
 
 ?>
+
+
+<!-- Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloremque, fuga. -->
